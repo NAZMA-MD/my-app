@@ -20,6 +20,11 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <dependency>     
+	    <groupId>com.apple</groupId>     
+	    <artifactId>AppleJavaExtensions</artifactId>     
+	    <version>1.4</version> 
+    </dependency>
     <dependency>
         <groupId>org.checkerframework</groupId>
         <artifactId>checker</artifactId>
